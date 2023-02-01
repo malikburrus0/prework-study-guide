@@ -1,6 +1,5 @@
-<head>
-<link rel="stylesheet" href="./assets/style.css"/>
-{
+
+* {
     margin: 0;
     padding: 0;
 }
@@ -36,4 +35,3 @@ p {
     border: 5px solid blue;
     box-shadow: 5px 10px #888888;
   }
-</head>
